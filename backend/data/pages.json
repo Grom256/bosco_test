@@ -9,7 +9,7 @@
         "title": "Свіжообсмажена кава преміум якості",
         "subtitle": "Відкрийте для себе багатий смак та неповторний аромат свіжого зерна зі всього світу. Ми обсмажуємо каву у Львові з любов'ю до кожної деталі.",
         "image": {
-          "src": "/img/hero.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Latte_and_dark_coffee.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
           "alt": "Процес обсмажування кавових зерен у ростері"
         },
         "buttons": [
